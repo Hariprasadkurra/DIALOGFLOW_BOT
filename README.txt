@@ -5,7 +5,7 @@ db: contains the dump of the database. you need to import this into your MySQL d
 dialogflow_assets: this has training phrases etc. for our intents
 frontend: website code
 
-Install these modules
+## Install these modules
 
 pip install mysql-connector
 pip install fastapi uvicorn
